@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World 👋
+I am a backend software developer from Poland
+- 🔭 Working on backend project using PHP and Symfony
+- 🌱 Learning design patterns in depth
+
+<br>## Connect with me
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/marcin-pankiewicz-a9b24a116)<br>
+<br>
 
 <!--
 **pankuu/pankuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
